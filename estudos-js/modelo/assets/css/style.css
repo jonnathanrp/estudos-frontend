@@ -3,7 +3,7 @@
 :root {
     --primary-color: rgb(13, 106, 134);
     --primary-color-darker: rgb(9, 48, 56);
-    --primary-color-active: rgb(255, 138, 60);
+    --primary-color-active: rgb(255, 72, 0);
 }
 
 * {
@@ -21,6 +21,7 @@ body {
 }
 
 .container {
+    border-radius: 10px;
     max-width: 640px;
     margin: 50px auto;
     background: #fff;
