@@ -28,6 +28,16 @@ body {
     padding: 20px;
 }
 
+.flex-container{
+    width: 250px;
+}
+
+.flex-item {
+    margin: 3px 0px;
+    background: rgb(103, 170, 190);
+
+}
+
 form input, form label, form button {
     display: block;
     width: 100%;
