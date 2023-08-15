@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 
-.flex-container{
-    background-color:yellow;
+.flex-container {
+    background-color: yellow;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -14,21 +14,24 @@
     align-items: center;
     flex-wrap: wrap;
 }
-.flex-item{
+
+.flex-item {
     width: 150px;
-    background-color:rgb(5, 89, 245);
+    background-color: rgb(5, 89, 245);
     border: 2px rgb(16, 63, 75) solid;
     border-radius: 50px;
     color: white;
     text-align: center;
     padding: 10px 0;
 }
-h1{
+
+h1 {
     border: 2px red solid;
 }
-.flex-container-2{
+
+.flex-container-2 {
     width: 100%;
     height: 300px;
     background-color: limegreen;
-    padding: 20px 0 0 30px;
+    padding: 20px 20px 0 20px;
 }
